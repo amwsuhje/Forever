@@ -1,5 +1,6 @@
-@@||api.io.mi.com
-@@||device.io.mi.com
+# 米家app需要前两行,不用米家可以取消注释
+# ||api.io.mi.com
+# ||device.io.mi.com
 
 ||519332DA.rtc.youme.im
 ||ad.doubleclick.net
