@@ -1,125 +1,124 @@
-# 米家app需要前两行,不用米家可以取消注释
-# 127.0.0.1 api.io.mi.com
-# 127.0.0.1 device.io.mi.com
+@@||api.io.mi.com
+@@||device.io.mi.com
 
-127.0.0.1 519332DA.rtc.youme.im
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.hpplay.cn
-127.0.0.1 ad.mi.com
-127.0.0.1 ad.xiaomi.com
-127.0.0.1 ad1.xiaomi.com
-127.0.0.1 adc.hpplay.cn
-127.0.0.1 adcdn.hpplay.cn
-127.0.0.1 adeng.hpplay.cn
-127.0.0.1 admaster.com.cn
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 alert.kuyun.com
-127.0.0.1 alog.umeng.com
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 api.hpplay.com.cn
-127.0.0.1 appstore.cdn.pandora.xiaomi.com
-127.0.0.1 appstore.pandora.xiaomi.com
-127.0.0.1 assistant.pandora.xiaomi.com
-127.0.0.1 auth.api.gitv.tv
-127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
-127.0.0.1 broker.mqtt.pandora.xiaomi.com
-127.0.0.1 bss.pandora.xiaomi.com
-127.0.0.1 cdn.ad.xiaomi.com
-127.0.0.1 cdn.hpplay.com.cn
-127.0.0.1 cdn1.hpplay.cn
-127.0.0.1 cloud.hpplay.cn
-127.0.0.1 conf.hpplay.cn
-127.0.0.1 config.kuyun.com
-127.0.0.1 d1.xiaomi.com
-127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 de.pandora.xiaomi.com
-127.0.0.1 devicemgr.hpplay.cn
-127.0.0.1 dvb.pandora.xiaomi.com
-127.0.0.1 e.ad.xiaomi.com
-127.0.0.1 f1.market.mi-img.com
-127.0.0.1 f1.market.xiaomi.com
-127.0.0.1 f2.market.mi-img.com
-127.0.0.1 f2.market.xiaomi.com
-127.0.0.1 f3.market.mi-img.com
-127.0.0.1 f3.market.xiaomi.com
-127.0.0.1 f4.market.mi-img.com
-127.0.0.1 f4.market.xiaomi.com
-127.0.0.1 f5.market.mi-img.com
-127.0.0.1 f5.market.xiaomi.com
-127.0.0.1 file.xmpush.xiaomi.com
-127.0.0.1 fix.hpplay.cn
-127.0.0.1 ftp.hpplay.com.cn
-127.0.0.1 g.dtv.cn.miaozhan.com
-127.0.0.1 g.dtv.cn.miaozhen.com
-127.0.0.1 gallery.pandora.xiaomi.com
-127.0.0.1 gslb.hpplay.cn
-127.0.0.1 gvod.aiseejapp.atianqi.com
-127.0.0.1 h5.hpplay.com.cn
-127.0.0.1 hotupgrade.hpplay.
-127.0.0.1 hotupgrade.hpplay.cn
-127.0.0.1 hpplay.cdn.cibn.cc
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
-127.0.0.1 image.hpplay.cn
-127.0.0.1 imdns.hpplay.cn
-127.0.0.1 jellyfish.pandora.xiaomi.com
-127.0.0.1 leboapi.hpplay.com.cn
-127.0.0.1 logonext.tv.kuyun.com
-127.0.0.1 market.xiaomi.com
-127.0.0.1 metok.sys.miui.com
-127.0.0.1 milink.pandora.xiaomi.com
-127.0.0.1 misc.in.duokanbox.com
-127.0.0.1 misc.pandora.xiaomi.com
-127.0.0.1 mishop.pandora.xiaomi.com
-127.0.0.1 mitv.tracking.miui.com
-127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 o2o.api.xiaomi.com
-127.0.0.1 omgmta.play.aiseet.atianqi.com
-127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 ota.cdn.pandora.xiaomi.com
-127.0.0.1 package.box.xiaomi.com
-127.0.0.1 package.cdn.pandora.xiaomi.com
-127.0.0.1 pandora.mi.com
-127.0.0.1 pin.hpplay.cn
-127.0.0.1 r.browser.miui.com
-127.0.0.1 redirect.pandora.xiaomi.com
-127.0.0.1 register.xmpush.xiaomi.com
-127.0.0.1 resolver.msg.xiaomi.net
-127.0.0.1 rp.hpplay.cn
-127.0.0.1 rp.hpplay.com.cn
-127.0.0.1 rps.hpplay.cn
-127.0.0.1 sdkauth.hpplay.cn
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 secure-chn.imrworldwide.com
-127.0.0.1 sl.hpplay.cn
-127.0.0.1 ssp.ad.xiaomi.com
-127.0.0.1 staging.ai.api.xiaomi.com
-127.0.0.1 starfish.pandora.xiaomi.com
-127.0.0.1 stat.pandora.xiaomi.com
-127.0.0.1 t1.a.market.xiaomi.com
-127.0.0.1 t2.a.market.xiaomi.com
-127.0.0.1 t3.a.market.xiaomi.com
-127.0.0.1 t4.a.market.xiaomi.com
-127.0.0.1 t5.a.market.xiaomi.com
-127.0.0.1 t7z.cupid.ptqy.gitv.tv
-127.0.0.1 tat.pandora.xiaomi.com
-127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 test.new.api.ad.xiaomi.com
-127.0.0.1 tracking.miui.com
-127.0.0.1 tv.aiseet.atianqi.com
-127.0.0.1 tv.weixin.pandora.xiaomi.com
-127.0.0.1 tvapi.kuyun.com
-127.0.0.1 tvapp.hpplay.cn
-127.0.0.1 tvmanager.pandora.xiaomi.com
-127.0.0.1 tvmgr.pandora.xiaomi.com
-127.0.0.1 upgrade.mishop.pandora.xiaomi.com
-127.0.0.1 upgrade.xl9.xunlei.com
-127.0.0.1 userapi.hpplay.com.cn
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 video.market.xiaomi.com
-127.0.0.1 vipauth.hpplay.cn
-127.0.0.1 vipsdkauth.hpplay.cn
-127.0.0.1 vv.play.aiseet.atianqi.com
+||519332DA.rtc.youme.im
+||ad.doubleclick.net
+||ad.hpplay.cn
+||ad.mi.com
+||ad.xiaomi.com
+||ad1.xiaomi.com
+||adc.hpplay.cn
+||adcdn.hpplay.cn
+||adeng.hpplay.cn
+||admaster.com.cn
+||adv.sec.miui.com
+||alert.kuyun.com
+||alog.umeng.com
+||android.bugly.qq.com
+||api.ad.xiaomi.com
+||api.cupid.ptqy.gitv.tv
+||api.hpplay.com.cn
+||appstore.cdn.pandora.xiaomi.com
+||appstore.pandora.xiaomi.com
+||assistant.pandora.xiaomi.com
+||auth.api.gitv.tv
+||b.netcheck.gallery.pandora.xiaomi.com
+||broker.mqtt.pandora.xiaomi.com
+||bss.pandora.xiaomi.com
+||cdn.ad.xiaomi.com
+||cdn.hpplay.com.cn
+||cdn1.hpplay.cn
+||cloud.hpplay.cn
+||conf.hpplay.cn
+||config.kuyun.com
+||d1.xiaomi.com
+||data.mistat.xiaomi.com
+||de.pandora.xiaomi.com
+||devicemgr.hpplay.cn
+||dvb.pandora.xiaomi.com
+||e.ad.xiaomi.com
+||f1.market.mi-img.com
+||f1.market.xiaomi.com
+||f2.market.mi-img.com
+||f2.market.xiaomi.com
+||f3.market.mi-img.com
+||f3.market.xiaomi.com
+||f4.market.mi-img.com
+||f4.market.xiaomi.com
+||f5.market.mi-img.com
+||f5.market.xiaomi.com
+||file.xmpush.xiaomi.com
+||fix.hpplay.cn
+||ftp.hpplay.com.cn
+||g.dtv.cn.miaozhan.com
+||g.dtv.cn.miaozhen.com
+||gallery.pandora.xiaomi.com
+||gslb.hpplay.cn
+||gvod.aiseejapp.atianqi.com
+||h5.hpplay.com.cn
+||hotupgrade.hpplay.
+||hotupgrade.hpplay.cn
+||hpplay.cdn.cibn.cc
+||hub5btmain.sandai.net
+||hub5emu.sandai.net
+||image.hpplay.cn
+||imdns.hpplay.cn
+||jellyfish.pandora.xiaomi.com
+||leboapi.hpplay.com.cn
+||logonext.tv.kuyun.com
+||market.xiaomi.com
+||metok.sys.miui.com
+||milink.pandora.xiaomi.com
+||misc.in.duokanbox.com
+||misc.pandora.xiaomi.com
+||mishop.pandora.xiaomi.com
+||mitv.tracking.miui.com
+||new.api.ad.xiaomi.com
+||o2o.api.xiaomi.com
+||omgmta.play.aiseet.atianqi.com
+||osfota.cdn.aliyun.com
+||osupdateservice.yunos.com
+||ota.cdn.pandora.xiaomi.com
+||package.box.xiaomi.com
+||package.cdn.pandora.xiaomi.com
+||pandora.mi.com
+||pin.hpplay.cn
+||r.browser.miui.com
+||redirect.pandora.xiaomi.com
+||register.xmpush.xiaomi.com
+||resolver.msg.xiaomi.net
+||rp.hpplay.cn
+||rp.hpplay.com.cn
+||rps.hpplay.cn
+||sdkauth.hpplay.cn
+||sdkconfig.ad.xiaomi.com
+||secure-chn.imrworldwide.com
+||sl.hpplay.cn
+||ssp.ad.xiaomi.com
+||staging.ai.api.xiaomi.com
+||starfish.pandora.xiaomi.com
+||stat.pandora.xiaomi.com
+||t1.a.market.xiaomi.com
+||t2.a.market.xiaomi.com
+||t3.a.market.xiaomi.com
+||t4.a.market.xiaomi.com
+||t5.a.market.xiaomi.com
+||t7z.cupid.ptqy.gitv.tv
+||tat.pandora.xiaomi.com
+||test.ad.xiaomi.com
+||test.new.api.ad.xiaomi.com
+||tracking.miui.com
+||tv.aiseet.atianqi.com
+||tv.weixin.pandora.xiaomi.com
+||tvapi.kuyun.com
+||tvapp.hpplay.cn
+||tvmanager.pandora.xiaomi.com
+||tvmgr.pandora.xiaomi.com
+||upgrade.mishop.pandora.xiaomi.com
+||upgrade.xl9.xunlei.com
+||userapi.hpplay.com.cn
+||v.admaster.com.cn
+||video.market.xiaomi.com
+||vipauth.hpplay.cn
+||vipsdkauth.hpplay.cn
+||vv.play.aiseet.atianqi.com
