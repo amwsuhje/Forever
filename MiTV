@@ -19,8 +19,8 @@
 ||api.ad.xiaomi.com
 ||api.cupid.ptqy.gitv.tv
 ||api.hpplay.com.cn
-# ||appstore.cdn.pandora.xiaomi.com
-# ||appstore.pandora.xiaomi.com
+||appstore.cdn.pandora.xiaomi.com
+||appstore.pandora.xiaomi.com
 ||assistant.pandora.xiaomi.com
 ||auth.api.gitv.tv
 ||b.netcheck.gallery.pandora.xiaomi.com
@@ -38,16 +38,16 @@
 ||devicemgr.hpplay.cn
 ||dvb.pandora.xiaomi.com
 ||e.ad.xiaomi.com
-# ||f1.market.mi-img.com
-# ||f1.market.xiaomi.com
-# ||f2.market.mi-img.com
-# ||f2.market.xiaomi.com
-# ||f3.market.mi-img.com
-# ||f3.market.xiaomi.com
-# ||f4.market.mi-img.com
-# ||f4.market.xiaomi.com
-# ||f5.market.mi-img.com
-# ||f5.market.xiaomi.com
+||f1.market.mi-img.com
+||f1.market.xiaomi.com
+||f2.market.mi-img.com
+||f2.market.xiaomi.com
+||f3.market.mi-img.com
+||f3.market.xiaomi.com
+||f4.market.mi-img.com
+||f4.market.xiaomi.com
+||f5.market.mi-img.com
+||f5.market.xiaomi.com
 ||file.xmpush.xiaomi.com
 ||fix.hpplay.cn
 ||ftp.hpplay.com.cn
@@ -79,10 +79,10 @@
 ||omgmta.play.aiseet.atianqi.com
 ||osfota.cdn.aliyun.com
 ||osupdateservice.yunos.com
-# ||ota.cdn.pandora.xiaomi.com
+||ota.cdn.pandora.xiaomi.com
 ||package.box.xiaomi.com
 ||package.cdn.pandora.xiaomi.com
-# ||pandora.mi.com
+||pandora.mi.com
 ||pin.hpplay.cn
 ||r.browser.miui.com
 ||redirect.pandora.xiaomi.com
@@ -99,11 +99,11 @@
 ||staging.ai.api.xiaomi.com
 ||starfish.pandora.xiaomi.com
 ||stat.pandora.xiaomi.com
-# ||t1.a.market.xiaomi.com
-# ||t2.a.market.xiaomi.com
-# ||t3.a.market.xiaomi.com
-# ||t4.a.market.xiaomi.com
-# ||t5.a.market.xiaomi.com
+||t1.a.market.xiaomi.com
+||t2.a.market.xiaomi.com
+||t3.a.market.xiaomi.com
+||t4.a.market.xiaomi.com
+||t5.a.market.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv
 ||tat.pandora.xiaomi.com
 ||test.ad.xiaomi.com
@@ -119,7 +119,7 @@
 ||upgrade.xl9.xunlei.com
 ||userapi.hpplay.com.cn
 ||v.admaster.com.cn
-# ||video.market.xiaomi.com
+||video.market.xiaomi.com
 ||vipauth.hpplay.cn
 ||vipsdkauth.hpplay.cn
 ||vv.play.aiseet.atianqi.com
