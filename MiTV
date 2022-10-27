@@ -39,15 +39,15 @@
 ||dvb.pandora.xiaomi.com
 ||e.ad.xiaomi.com
 ||f1.market.mi-img.com
-||f1.market.xiaomi.com
+# ||f1.market.xiaomi.com
 ||f2.market.mi-img.com
-||f2.market.xiaomi.com
+# ||f2.market.xiaomi.com
 ||f3.market.mi-img.com
-||f3.market.xiaomi.com
+# ||f3.market.xiaomi.com
 ||f4.market.mi-img.com
-||f4.market.xiaomi.com
+# ||f4.market.xiaomi.com
 ||f5.market.mi-img.com
-||f5.market.xiaomi.com
+# ||f5.market.xiaomi.com
 ||file.xmpush.xiaomi.com
 ||fix.hpplay.cn
 ||ftp.hpplay.com.cn
@@ -67,7 +67,7 @@
 ||jellyfish.pandora.xiaomi.com
 ||leboapi.hpplay.com.cn
 ||logonext.tv.kuyun.com
-||market.xiaomi.com
+# ||market.xiaomi.com
 ||metok.sys.miui.com
 ||milink.pandora.xiaomi.com
 ||misc.in.duokanbox.com
@@ -99,11 +99,11 @@
 ||staging.ai.api.xiaomi.com
 ||starfish.pandora.xiaomi.com
 ||stat.pandora.xiaomi.com
-||t1.a.market.xiaomi.com
-||t2.a.market.xiaomi.com
-||t3.a.market.xiaomi.com
-||t4.a.market.xiaomi.com
-||t5.a.market.xiaomi.com
+# ||t1.a.market.xiaomi.com
+# ||t2.a.market.xiaomi.com
+# ||t3.a.market.xiaomi.com
+# ||t4.a.market.xiaomi.com
+# ||t5.a.market.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv
 ||tat.pandora.xiaomi.com
 ||test.ad.xiaomi.com
@@ -119,7 +119,7 @@
 ||upgrade.xl9.xunlei.com
 ||userapi.hpplay.com.cn
 ||v.admaster.com.cn
-||video.market.xiaomi.com
+# ||video.market.xiaomi.com
 ||vipauth.hpplay.cn
 ||vipsdkauth.hpplay.cn
 ||vv.play.aiseet.atianqi.com
